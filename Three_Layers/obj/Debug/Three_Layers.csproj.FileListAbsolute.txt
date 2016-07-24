@@ -1,0 +1,9 @@
+C:\EPAM\Task_9_Three_Layers\Three_Layers\bin\Debug\Three_Layers.exe.config
+C:\EPAM\Task_9_Three_Layers\Three_Layers\obj\Debug\Three_Layers.csprojResolveAssemblyReference.cache
+C:\EPAM\Task_9_Three_Layers\Three_Layers\obj\Debug\Three_Layers.ClientsOfBank.resources
+C:\EPAM\Task_9_Three_Layers\Three_Layers\obj\Debug\Three_Layers.Properties.Resources.resources
+C:\EPAM\Task_9_Three_Layers\Three_Layers\obj\Debug\Three_Layers.csproj.GenerateResource.Cache
+C:\EPAM\Task_9_Three_Layers\Three_Layers\bin\Debug\Three_Layers.exe
+C:\EPAM\Task_9_Three_Layers\Three_Layers\bin\Debug\Three_Layers.pdb
+C:\EPAM\Task_9_Three_Layers\Three_Layers\obj\Debug\Three_Layers.exe
+C:\EPAM\Task_9_Three_Layers\Three_Layers\obj\Debug\Three_Layers.pdb
